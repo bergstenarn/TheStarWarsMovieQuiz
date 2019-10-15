@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TheStarWarsMovieQuiz/static/css/main.2c699dcd.chunk.css",
+    "main.js": "/TheStarWarsMovieQuiz/static/js/main.3aa68bb7.chunk.js",
+    "main.js.map": "/TheStarWarsMovieQuiz/static/js/main.3aa68bb7.chunk.js.map",
+    "runtime-main.js": "/TheStarWarsMovieQuiz/static/js/runtime-main.23008591.js",
+    "runtime-main.js.map": "/TheStarWarsMovieQuiz/static/js/runtime-main.23008591.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/TheStarWarsMovieQuiz/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.45be4b56.chunk.js": "/TheStarWarsMovieQuiz/static/js/2.45be4b56.chunk.js",
+    "static/js/2.45be4b56.chunk.js.map": "/TheStarWarsMovieQuiz/static/js/2.45be4b56.chunk.js.map",
+    "index.html": "/TheStarWarsMovieQuiz/index.html",
+    "precache-manifest.7f3ea72c09155c4c79c9e077f30c55d4.js": "/TheStarWarsMovieQuiz/precache-manifest.7f3ea72c09155c4c79c9e077f30c55d4.js",
+    "service-worker.js": "/TheStarWarsMovieQuiz/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/TheStarWarsMovieQuiz/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.2c699dcd.chunk.css.map": "/TheStarWarsMovieQuiz/static/css/main.2c699dcd.chunk.css.map",
+    "static/media/App.css": "/TheStarWarsMovieQuiz/static/media/SEGA.12a3db8b.woff"
+  }
+}
